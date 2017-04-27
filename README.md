@@ -19,7 +19,7 @@ https://www.youtube.com/user/hvasslabs
 
 
 
-#blogs to read
+# blogs to read
 
 https://blog.openai.com/generative-models/
 
