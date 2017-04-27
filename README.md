@@ -29,7 +29,9 @@ https://affinelayer.com/pix2pix/
 
 https://bamos.github.io/2016/08/09/deep-completion/
 
+http://www.foldl.me/2015/conditional-gans-face-generation/
 
+http://wiseodd.github.io/techblog/2016/12/24/conditional-gan-tensorflow/
 
 
 
