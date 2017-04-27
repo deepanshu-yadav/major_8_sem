@@ -1,6 +1,13 @@
 # major_8_sem
 open jupyter notebook 
 run cells one after another
+# requirements 
+keras -2.0.2
+tensorflow -1.0.1
+PIL
+open cv as cv2
+python 3
+numpy
 
 # thank you to 
 https://github.com/legokichi/keras-pix2pix
