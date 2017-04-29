@@ -8,6 +8,7 @@ PIL  <br>
 open cv as cv2 <br>
 python 3 <br>
 numpy <br>
+scipy <br>
 
 # thank you to 
 https://github.com/legokichi/keras-pix2pix
