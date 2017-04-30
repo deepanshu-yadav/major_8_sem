@@ -25,6 +25,8 @@ https://github.com/yiyuezhuo/GAN_experiment
 
 https://www.youtube.com/user/hvasslabs
 
+https://www.youtube.com/watch?v=u7kQ5lNfUfg
+
 
 
 # blogs to read
