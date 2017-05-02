@@ -3,11 +3,11 @@
 sudo pip3 install tensorflow <br>
 sudo pip3 install keras <br>
 sudo pip3 install Pillow <br>
-scipy and numpy willautomatically get installed <br>
+scipy and numpy will automatically get installed <br>
 
 
 # major_8_sem
-open jupyter notebook <br>
+open jupyter notebook "  experiment -4"  <br>
 run cells one after another
 # requirements 
 keras -2.0.2 <br>
