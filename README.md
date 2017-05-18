@@ -7,8 +7,16 @@ scipy and numpy will automatically get installed <br>
 
 
 # major_8_sem
-open jupyter notebook "  experiment -4"  <br>
+open jupyter notebook "  experiment -5"  <br>
 run cells one after another
+
+# for floyd hub 
+run terminal in this directory <br>
+floyd login <br>
+floyd init project <br>
+floyd run --mode jupyter --env tensorflow --gpu <br>
+now run cells one after another<br>
+
 # requirements 
 keras -2.0.2 <br>
 tensorflow -1.0.1 <br>
