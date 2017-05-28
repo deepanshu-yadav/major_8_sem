@@ -7,9 +7,10 @@ scipy and numpy will automatically get installed <br>
 
 
 # major_8_sem
-open jupyter notebook "  experiment -5"  <br>
+open jupyter notebook "  training code"  <br>
 run cells one after another
-
+open jupyter notebook "  testing code"  <br>
+run cells one after another
 # for floyd hub 
 run terminal in this directory <br>
 floyd login <br>
